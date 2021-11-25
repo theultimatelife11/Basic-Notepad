@@ -2,7 +2,7 @@
  Just basic notepad that i coded
 # Windows Compiling
  Download Embarcadero Dev-C++ 6.3
-
+[GitHub Pages](https://github.com/Embarcadero/Dev-Cpp/releases)
  Locate Project1.dev file using Dev-C++
  
  Then Press F9 key on your keyboard
