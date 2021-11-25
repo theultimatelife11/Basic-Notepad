@@ -10,3 +10,5 @@
  The Executable file should be on Basic Notepad directory
 # Aditional text
 Tested in Windows 11
+
+This is open-source
